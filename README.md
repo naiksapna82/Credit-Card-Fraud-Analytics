@@ -1,4 +1,4 @@
-# Credit Card Fraud Analytics | Excel, SQL & Power BI
+<img width="656" height="197" alt="image" src="https://github.com/user-attachments/assets/3a533b45-32c9-483a-8e4b-42a74cfe38d6" /># Credit Card Fraud Analytics | Excel, SQL & Power BI
 
 ### Identifying Unusual Spending Behaviour and Prioritising Fraud Risk
 
@@ -78,6 +78,12 @@ The issue was associated with card identifiers stored in shortened scientific no
 This is a historical descriptive analytics project, not a deployed fraud-detection system.
 
 The analysis does not establish predictive model accuracy, quantify realised fraud prevention or demonstrate production-level real-time detection.
+
+## Project Presentation
+
+[Download the 12-slide PowerPoint presentation](Reports/Credit_Card_Fraud_Analytics.pptx)
+
+Includes project findings, dashboard visuals, recommendations and limitations.
 
 ## Portfolio Focus
 
