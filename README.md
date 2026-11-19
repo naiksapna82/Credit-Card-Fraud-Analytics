@@ -82,6 +82,7 @@ The analysis does not establish predictive model accuracy, quantify realised fra
 ## Project Presentation
 
 [Download the 12-slide PowerPoint presentation](Reports/Credit_Card_Fraud_Analytics.pptx)
+
 [View the presentation as PDF](Reports/Credit_Card_Fraud_Analytics.pdf)
 
 Includes project findings, dashboard visuals, recommendations and limitations.
