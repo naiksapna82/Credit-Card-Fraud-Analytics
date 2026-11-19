@@ -1,4 +1,4 @@
-<img width="656" height="197" alt="image" src="https://github.com/user-attachments/assets/3a533b45-32c9-483a-8e4b-42a74cfe38d6" /># Credit Card Fraud Analytics | Excel, SQL & Power BI
+# Credit Card Fraud Analytics | Excel, SQL & Power BI
 
 ### Identifying Unusual Spending Behaviour and Prioritising Fraud Risk
 
@@ -82,6 +82,7 @@ The analysis does not establish predictive model accuracy, quantify realised fra
 ## Project Presentation
 
 [Download the 12-slide PowerPoint presentation](Reports/Credit_Card_Fraud_Analytics.pptx)
+[View the presentation as PDF](Reports/Credit_Card_Fraud_Analytics.pdf)
 
 Includes project findings, dashboard visuals, recommendations and limitations.
 
